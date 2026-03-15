@@ -18,7 +18,7 @@ Implementação do clássico jogo da cobrinha desenvolvido para prática de lóg
 <br>
 
 <p align="center"> 
-    <img alt="Snake Game" src="src/imagens/preview.png">
+    <img alt="Snake Game" src="./assets/preview.png">
 </p>
 
 ## 🚀 Tecnologias
