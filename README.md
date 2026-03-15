@@ -34,6 +34,9 @@ Nesse projeto foram utilizadas as seguintes tecnologias:
 
 Este projeto é uma implementação do clássico **Snake Game**, desenvolvido utilizando **HTML, CSS e JavaScript**, com base em um vídeo tutorial.
 
+- [Visite o vídeo]((https://www.youtube.com/watch?v=LyWSsZktVOg&list=WL&index=1&t=1280s))
+
+
 O objetivo do projeto foi praticar conceitos importantes do desenvolvimento web, como **lógica de programação, manipulação do DOM, controle de eventos do teclado e atualização dinâmica da interface**.
 
 Durante o jogo, o jogador controla a cobra pelo teclado, deve coletar a comida para aumentar a pontuação e evitar colisões com as bordas ou com o próprio corpo da cobra.
